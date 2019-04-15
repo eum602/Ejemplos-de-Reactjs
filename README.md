@@ -1,2 +1,2 @@
-# Ejemplos-de-Reactjs
-Ejemplos de utilizacion de React; se usará nodejs para manejar los diferentes componentes que posee cada proyecto desarrollado en React.
+# Reactjs examples
+Reactjs examples. We will use nodejs to manage different components that owns the project.
