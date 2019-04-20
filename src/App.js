@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-	Adding some comments from master
+	Adding some comments from master. Also adding some comments from myfeature branch.
         <Dogs dogs={this.state.dogs} onDelete={this.handleDeleteDog.bind(this)} />
         <AddDog addDog={this.handleAddDog.bind(this)} />
         <hr />
