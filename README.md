@@ -12,7 +12,7 @@ This can be deployed on any server or locally
 
 
 ##How to contribute
-Free to receive any contributions
+Free to receive any contributions from anywhere.
 
 ##Copyright
 2019
