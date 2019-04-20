@@ -1,4 +1,4 @@
-# Reactjs examples
+# Reactjs Examples
 
 ##Introduction
 Reactjs examples. We will use nodejs to manage different components that owns the project.
@@ -8,6 +8,7 @@ This project is aimed to show the basic behavour of react by using an app where 
 
 
 ##Deployment
+This can be deployed on any server or locally
 
 
 ##How to contribute

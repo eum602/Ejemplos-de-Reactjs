@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-	Hello World!
+	 Hello World from nano!
         <Dogs dogs={this.state.dogs} onDelete={this.handleDeleteDog.bind(this)} />
         <AddDog addDog={this.handleAddDog.bind(this)} />
         <hr />
