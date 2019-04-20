@@ -15,6 +15,6 @@ This can be deployed on any server or locally
 Free to receive any contributions from anywhere.
 
 ##Copyright
-2019
+2019 - All rights reserved from configbranch
 
 
