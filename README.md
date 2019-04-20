@@ -12,9 +12,8 @@ This can be deployed on any server or locally
 
 
 ##How to contribute
-Free to receive any contributions from anywhere in the world
 
 ##Copyright
-2019 - Copyrights from master
+2019 - All rights reserved from configbranch
 
 
