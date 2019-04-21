@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-	Adding  a comment to App.js from master to generate conflicts when rebasing.
+	Adding  a new comment on App.js to practice rebase with the remote repository.
         <Dogs dogs={this.state.dogs} onDelete={this.handleDeleteDog.bind(this)} />
         <AddDog addDog={this.handleAddDog.bind(this)} />
         <hr />
