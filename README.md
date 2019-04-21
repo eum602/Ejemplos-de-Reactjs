@@ -15,6 +15,6 @@ This can be deployed on any server or locally
 We can receive contributions fro anywhere in the world
 
 ## Copyright
-2019 - All rights reserved from anotherbranch.
+2019 - All rights reserved from a remote developer.
 
 
