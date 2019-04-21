@@ -8,7 +8,7 @@ This project is aimed to show the basic behavour of react by using an app where 
 
 
 ## Deployment
-This can be deployed on any server or locally.
+This can be deployed on any server or locally. Using one stash here!
 
 
 ## How to contribute
