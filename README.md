@@ -8,13 +8,13 @@ This project is aimed to show the basic behavour of react by using an app where 
 
 
 ## Deployment
-This can be deployed on any server or locally
+This can be deployed on any server or locally.
 
 
 ## How to contribute
-We can receive contributions fro anywhere in the world
+We can receive contributions fro anywhere in the world.
 
 ## Copyright
-2019 - All rights reserved from a remote developer.
+2019 - All rights reserved from a local developer to practice after stashing some file.
 
 
