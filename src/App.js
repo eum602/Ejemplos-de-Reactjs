@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-	Adding some comments from master. Also adding some comments from myfeature branch.
+	Adding  a comment to App.js from master to generate conflicts when rebasing.
         <Dogs dogs={this.state.dogs} onDelete={this.handleDeleteDog.bind(this)} />
         <AddDog addDog={this.handleAddDog.bind(this)} />
         <hr />
