@@ -50,7 +50,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-	Adding  a new comment to practice stashing.
+	Adding  a  comment after stashing untracked files.
         <Dogs dogs={this.state.dogs} onDelete={this.handleDeleteDog.bind(this)} />
         <AddDog addDog={this.handleAddDog.bind(this)} />
         <hr />
