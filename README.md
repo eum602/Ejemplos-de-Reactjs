@@ -15,6 +15,6 @@ This can be deployed on any server or locally. Using some comments from master.
 We can receive contributions fro anywhere in the world. Work done after unstashing.
 
 ## Copyright
-2019 - All rights reserved - Modifying to add a new tag.
+2019 - All rights reserved - Modifying to use cherry-pick
 
 
