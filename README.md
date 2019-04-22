@@ -15,6 +15,6 @@ This can be deployed on any server or locally. Using one stash here!
 We can receive contributions fro anywhere in the world. Work done after unstashing.
 
 ## Copyright
-2019 - All rights reserved from a local developer to practice after stashing some file.
+2019 - All rights reserved - Modifying to add a new tag.
 
 
